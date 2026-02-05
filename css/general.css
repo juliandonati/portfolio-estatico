@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --body-color: #000000;
+    --overlay-color: #000711;
+    --overlay-shadow-color: #142135;
+
+    --nav-color: #00073170;
+
+    --presentacion-color-centro: #096b63;
+    --presentacion-color-uno: #090e6c;
+    --presentacion-color-dos: #393893;
+
+    --main-background-color: black;
+    --main-background-fade: #000731;
+}
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+
+body{
+    margin:0;
+    padding: 0;
+}
