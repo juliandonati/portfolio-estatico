@@ -172,6 +172,13 @@ main #section-skills .skill .img-container img{
     border-top-left-radius: 2rem;
     border-bottom-left-radius: 2rem;
 }
+
+main #section-education .degree .text-container{
+    flex:2;
+}
+main #section-education .degree .img-container{
+    flex:1;
+}
 main #section-education .degree .img-container img{
     border-top-right-radius: 2rem;
     border-bottom-right-radius: 2rem;
